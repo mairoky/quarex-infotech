@@ -1,0 +1,1 @@
+// Quarex Infotech js file

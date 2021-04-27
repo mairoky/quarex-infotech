@@ -1,0 +1,9 @@
+Website: Quarex Infotech
+
+bootstrap version: 5.0.0 beta 2
+
+font-family: 'Work Sans', sans-serif;
+
+#314584
+#FF3946
+#6e757a
